@@ -1,0 +1,201 @@
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Subramanian Chidambaram
+#     - name: Date of Birth
+#       value: 22nd June 1994
+#     - name: Languages
+#       value: English, Tamil
+
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: PhD
+#       institution: Purdue University, West Lafayette
+#       year: 1905
+#       description:
+#         - Description 1.
+#         - Description 2.
+#         - title: Description 3.
+#           contents:
+#             - Sub-description 1.
+#             - Sub-description 2.
+#     - title: Federal teaching diploma
+#       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+#       year: 1900
+#       description:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Professor of Theoretical Physics
+#       institution: Institute for Advanced Study, Princeton University
+#       year: 1933 - 1955
+#       description:
+#         - Description 1.
+#         - Description 2.
+#         - title: Description 3.
+#           contents:
+#             - Sub-description 1.
+#             - Sub-description 2.
+#     - title: Visiting Professor
+#       institution: California Institute of Technology, Pasadena, California, US
+#       year: 1933
+#       description:
+#         - Description 1.
+#         - Description 2.
+
+#     - title: Director
+#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+#       year: 1917-1933
+
+#     - title: Professor of Theoretical Physics
+#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
+#       year: 1911 - 1917
+#       description:
+
+#     - title: Associate Professor of Theoretical Physics
+#       institution: University of Zurich, Zurich, Switzerland
+#       year: 1909 - 1911
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Subramanian Chidambaram
+    - name: Contact
+      value: subbu10123@gmail.com, 
+    - name: Website
+      value: https://schidamb.github.io/
+    - name: Address
+      value: 201 W. California Avenue, Sunnyvale, CA, USA 94086
+    - name: Languages
+      value: English, Tamil
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Mechanical Engineering
+      institution: Purdue University, West Lafayette, IN, USA
+      year: 2017 - 2022
+      description:
+        - Thesis: Exploration Of Codeless In-situ Extended Reality Authoring Environment For Asynchronous Immersive Spatial Instructions
+        - Advisor: Karthik Ramani
+    - title: MS in Aeronautical and Astronautical Engineering
+      institution: Purdue University, West Lafayette, IN, USA
+      year: 2015 - 2017
+      description:
+        - Minor: Computational Science & Engineering
+    - title: Bachelor of Technology with Honors in Mechanical Engineering
+      institution: Vellore Institute of Technology, Vellore, India
+      year: 2011 - 2015
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral Scientist, Human-in-the-Loop Science Team
+      institution: Amazon Web Services, Santa Clara, CA, USA
+      year: 2022 - Present
+      description:
+        - Conversational AI, LLM Steerability, HCI in AI
+    - title: Research Intern, User Interface Research Group
+      institution: Autodesk Research, Toronto, Canada
+      year: 2022
+      description:
+        - Collaborated on advanced user interface technologies
+    - title: Design Intern
+      institution: Indian Space Research Organisation, Vikram Sarabhai Space Centre, Thiruvananthapuram, India
+      year: 2015
+      description:
+        - Worked on design projects within the aerospace sector
+    - title: Undergraduate Research Assistant
+      institution: Vellore Institute of Technology, Vellore, India
+      year: 2012 - 2014
+      description:
+        - Participated in mechanical engineering research projects
+
+- title: Publications and Patents
+  type: nested_list
+  contents:
+    - title: Peer-Reviewed Journal Publications
+      items:
+        - "Interacting Objects: A dataset focusing on spatio-temporal object-object relations for richer dynamic scene representation. IEEE Robotics and Automation Letters, January 2024."
+    - title: Peer-Reviewed Conference Proceedings
+      items:
+        - "EditAR: A Digital twin authoring and editing environment to create instructional content for AR/VR and video media. IEEE International Symposium on Mixed and Augmented Reality, Singapore, 2022."
+    - title: Patents
+      items:
+        - "System and method for generating asynchronous augmented reality instructions. US Patent No. 17/085,620."
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2020
+      items:
+        - Graduate School Mentoring Award, Purdue University
+        - Magoon Excellence in Teaching Award, Purdue University
+    - year: 2017
+      items:
+        - Winner, Additive Manufacturing design hackathon, Dassault Systèmes
+
+- title: Skills
+  type: list
+  contents:
+    items:
+      - "AR/VR/XR Development: Unity3D, OpenXR, Oculus SDK, MRTK, visionOS"
+      - "Programming Languages: C++, C#, Python, C, MATLAB, Mathematica, LaTeX"
+      - "ML/LLM Development: PyTorch, OpenAI APIs, Anthropic API"
+      - "Framework: NumPy, Pandas, Scikit Learn, Matplotlib"
+      - "Computer Graphics/Vision: OpenCV, OpenGL, Three.js"
+      - "Cloud Compute Services: AWS EC2, S3, Lambda, SageMaker, Ground Truth"
+      - "3D Asset Design: Blender, Autodesk, Solidworks, 3D Printing, OpenSCAD, MeshLab"
+      - "Prototyping: Laser Cutting, SolidCAM, CATIA, Abaqus"
+
+
+- title: Mentoring and Teaching
+  type: nested_list
+  contents:
+    - title: Mentored Graduate Students
+      items:
+        - "Rahul Jain, Asim Unmesh, Ananya Ipsita, Sai Swarup Reddy, and others at Purdue University."
+    - title: Teaching Assistant
+      items:
+        - "Engineering projects in Community Service, Purdue University, 2016 - 2020."
