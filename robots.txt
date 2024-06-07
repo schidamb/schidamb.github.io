@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://schidamb.github.io/sitemap.xml
