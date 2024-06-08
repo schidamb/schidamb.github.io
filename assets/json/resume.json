@@ -68,6 +68,18 @@
         "courses": [
           "Minor in Computational Science & Engineering"
         ]
+      },
+      {
+        "institution": "Vellore Institute of Technology (VIT)",
+        "location": "Vellore, Tamil Nadu, India",
+        "url": "",
+        "area": "Mechanical Engineering",
+        "studyType": "B.Tech (Hons)",
+        "startDate": "2011-07-10",
+        "endDate": "2015-05-10",
+        "score": "",
+        "courses": [
+        ]
       }
     ],
     "awards": [
@@ -101,6 +113,14 @@
         "icon": "",
         "keywords": [
           "Python, C#, C++, C"
+        ]
+      },
+      {
+        "name": "Computer Graphics/Vision",
+        "level": "Expert",
+        "icon": "",
+        "keywords": [
+          "OpenCV, OpenGL, Three.js"
         ]
       },
       {
