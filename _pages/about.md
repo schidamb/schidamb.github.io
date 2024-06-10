@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.amazon.science/author/subramanian-chidambaram'>PostDoctoral Scientist</a>; Amazon Web Service.
+subtitle: <a href='https://www.amazon.science/author/subramanian-chidambaram'>PostDoctoral Scientist</a>; Amazon Web Services.
 
 profile:
   align: right
