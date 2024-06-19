@@ -100,7 +100,7 @@
     ],
     "skills": [
       {
-        "name": "AR/VR/XR Development",
+        "name": "XR Development",
         "level": "Expert",
         "icon": "",
         "keywords": [
@@ -124,7 +124,7 @@
         ]
       },
       {
-        "name": "AI/ML/LLM Development",
+        "name": "AI Frameworks",
         "level": "Intermediate",
         "icon": "",
         "keywords": [
