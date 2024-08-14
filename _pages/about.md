@@ -20,7 +20,8 @@ Hello! I'm Subbu, a researcher specializing in the intersection of Human-Compute
 I earned my Ph.D. from Purdue University's [C Design Lab](https://engineering.purdue.edu/cdesign/wp/), where I specialized in designing, developing, and evaluating novel 3D interfaces and interaction techniques to progress Extended Reality (XR) applications. I am deeply passionate about the potential of AI to transform human interactions with technology and its implications for our future. My aim is to integrate my expertise in HCI with my current research in AI to drive innovation and enrich everyday life. 
 My research has been published at premier venues for HCI research, including ACM [CHI](https://chi2022.acm.org/), [CSCW](https://cscw.acm.org/2022/), [UIST](https://uist.acm.org/uist2022/), [Ubicomp](https://www.ubicomp.org/ubicomp2021/), [DIS](https://dis.acm.org/2022/), and [ISMAR](https://www.ismar.net/). 
 
-<mark><b>I'm on the job market!</b></mark> I'm looking for industry roles that allow me to leverage my science background to address problems related to Human-AI interaction in practice. Please reach out to me at subbu10123 [at] gmail.com. Thank you!
+Please reach out to me at subbu10123 [at] gmail.com if you find any of my work interesting. Thank you!
+<!-- <mark><b>I'm on the job market!</b></mark> I'm looking for industry roles that allow me to leverage my science background to address problems related to Human-AI interaction in practice. Please reach out to me at subbu10123 [at] gmail.com. Thank you! -->
 
 
 <!-- In addition, you can find more about my philosophy for research on the “<a href="./about_me.html">About me</a>” page. -->
