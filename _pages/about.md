@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.amazon.science/author/subramanian-chidambaram'>Postdoctoral Scientist</a>; <a href='https://aws.amazon.com/ai/machine-learning/'>Amazon Web Services AI</a>.
+subtitle: <a href='https://www.amazon.science/author/subramanian-chidambaram'>Applied Scientist</a>; <a href='https://aws.amazon.com/ai/machine-learning/'>Amazon Web Services AI</a>.
 
 profile:
   align: right
@@ -15,9 +15,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Subbu, a researcher specializing in the intersection of Human-Computer Interaction (HCI) and Artificial Intelligence (AI). As a postdoctoral scientist, I design, develop, explore, evaluate, and apply advancements in intelligent user interface frameworks for AI applications. I work under the guidance of [Alex Williams](https://acwio.github.io/) and [Erran Li](https://www.cs.columbia.edu/~lierranli/). My current work focuses on Conversational AI, Model Steerability, and Human-AI Agent interactions. I leverage my background in HCI to enhance data annotation processes for machine learning model development.
+Hello! I'm Subbu, a researcher specializing in the intersection of Human-Computer Interaction (HCI) and Artificial Intelligence (AI). As an Applied scientist, I work on advancements in intelligent user interface frameworks for AI applications. My current work focuses on AI Agents, Evaluation for AI Agents, Synthetic Data Generation, Model Steerability, and Human-AI Agent interactions. I leverage my background in HCI to enhance data annotation processes for machine learning model development.
+
+As part of Amazon Web Services' Bedrock AgentCore organization, I develop foundational primitives for the agent stack — connectivity, evaluation, and simulation — that let agents be deployed at scale with measurable reliability. My most recent work centers on Agent Evaluations, where I design evaluation methodologies and tooling for single- and multi-agent systems, shipped as part of AgentCore Evaluation service. I previously shipped capabilities for Amazon Bedrock AgentCore Gateway. I also contribute to AWS's open-source agent ecosystem, including Strands Agents (AWS's open-source agent framework)
 
 I earned my Ph.D. from Purdue University's [C Design Lab](https://engineering.purdue.edu/cdesign/wp/), where I specialized in designing, developing, and evaluating novel 3D interfaces and interaction techniques to progress Extended Reality (XR) applications. I am deeply passionate about the potential of AI to transform human interactions with technology and its implications for our future. My aim is to integrate my expertise in HCI with my current research in AI to drive innovation and enrich everyday life. 
+
 My research has been published at premier venues for HCI research, including ACM [CHI](https://chi2022.acm.org/), [CSCW](https://cscw.acm.org/2022/), [UIST](https://uist.acm.org/uist2022/), [Ubicomp](https://www.ubicomp.org/ubicomp2021/), [DIS](https://dis.acm.org/2022/), and [ISMAR](https://www.ismar.net/). 
 
 Please reach out to me at subbu10123 [at] gmail.com if you find any of my work interesting. Thank you!
