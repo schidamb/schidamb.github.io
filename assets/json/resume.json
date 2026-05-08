@@ -1,14 +1,12 @@
 {
     "basics": {
       "name": "Subramanian Chidambaram",
-      "label": "Postdoctoral Scientist",
+      "label": "Applied Scientist II",
       "image": "",
       "email": "subbu10123@gmail.com",
       "url": "https://schidamb.github.io/",
       "summary": "Intersectional Research between the spaces of Human-Computer Interaction (HCI) and Artificial Intelligence (AI).",
       "location": {
-        "address": "201 W. California Avenue",
-        "postalCode": "94086",
         "city": "Sunnyvale",
         "countryCode": "US",
         "region": "California"
@@ -18,10 +16,22 @@
     "work": [
       {
         "name": "Amazon Web Services",
+        "position": "Applied Scientist II, Amazon Science",
+        "url": "",
+        "startDate": "2024-11-25",
+        "endDate": "Present",
+        "summary": "",
+        "highlights": [
+          "Research and development of product AgentCore Gateway, Evaluation services",
+          "Research and development support for Strands-Eval Open source evalautaion framework - Simulation"
+          ]
+      },
+      {
+        "name": "Amazon Web Services",
         "position": "Postdoctoral Scientist, Amazon Science",
         "url": "",
         "startDate": "2022-12-01",
-        "endDate": "present",
+        "endDate": "2024-11-24",
         "summary": "",
         "highlights": [
           "Research and development of novel Virtual Reality (VR) interfaces to annotate 3D point cloud data for machine learning applications.",
@@ -191,7 +201,7 @@
       {
         "name": "Dr. Alex C. Williams",
         "icon": "",
-        "reference": "Postdoctoral Mentor, Applied Scientist II, AWS Sagemaker Ground Truth, Human-in-the-Loop Science. Email: acwio@amazon.com"
+        "reference": "Former Postdoctoral Mentor, Current Principal Applied Science Manager, Global Experiences, Microsoft Email: acwio@microsoft.com"
       },
       {
         "name": "Dr. Erran Li",

@@ -106,7 +106,7 @@
     - name: Website
       value: https://schidamb.github.io/
     - name: Address
-      value: 201 W. California Avenue, Sunnyvale, CA, USA 94086
+      value: Sunnyvale, CA, USA 94086
     - name: Languages
       value: English, Tamil
 
@@ -141,11 +141,6 @@
       year: 2022
       description:
         - Collaborated on advanced user interface technologies
-    - title: Design Intern
-      institution: Indian Space Research Organisation, Vikram Sarabhai Space Centre, Thiruvananthapuram, India
-      year: 2015
-      description:
-        - Worked on design projects within the aerospace sector
     - title: Undergraduate Research Assistant
       institution: Vellore Institute of Technology, Vellore, India
       year: 2012 - 2014

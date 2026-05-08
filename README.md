@@ -22,6 +22,16 @@
 
 </div>
 
+## Quick Start (Local Development)
+
+```bash
+bundle install
+bundle exec jekyll serve
+# Site available at http://localhost:4000
+```
+
+Run instruction tutorials available at: https://youtu.be/g6AJ9qPPoyc?si=n2sarybQGkIaa5CW&t=400
+
 ## User community
 
 The vibrant community of **al-folio** users is growing!
